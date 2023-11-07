@@ -1,0 +1,90 @@
+body {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 233, 233, 1);
+  margin: 0;
+  padding: 0;
+  border: 5px, solid, black;
+}
+
+.Header{
+  display: flex;
+  justify-content: space-between;
+  align-items:center;
+  flex-direction: row;
+  height: 20px;
+  width: auto;
+  margin-top: 40px;
+  border-width: 5px;
+  border-color: black;
+  
+
+}
+
+.menu{
+  display: flex;
+  margin-left: 150px;
+
+
+  
+}
+
+.menu--home, .menu--portfolio, .menu--about{
+  font-family: jaldi;
+  font-size: 30px;
+  margin-right: 100px;
+}
+
+.logo{
+  width: 70px;
+  margin: 10px;
+  margin-left: 40px;
+}
+
+.contact{
+ 
+  border: none;
+  border-radius: 500px;
+  background-color: rgba(170, 0, 0, 1);
+ 
+  width: auto;
+  height: 50px;
+  width: 160px;
+  margin: 10px;
+}
+
+.button-name{
+  font-family: inter;
+  font-weight: 500;
+  font-size: 20px;
+  color: white;
+  padding: 5px;
+}
+
+.pp{
+  margin-top: 100px;
+  margin-left: 100px;
+  width: 300px;
+}
+
+
+.main{
+  display: flex;
+  margin-top: 50px;
+}
+
+.text-intro{
+  font-family: jost;
+  font-weight: 500;
+  text-align: right;
+  margin-left: 40px;
+  font-size: 80px;
+  margin-top: 100px;
+  margin-right: 20px;
+}
+
+.home-portfolio{
+  margin-left: 500px;
+  margin-right: 200px;
+}
+
