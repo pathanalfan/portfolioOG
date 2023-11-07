@@ -10,7 +10,7 @@ export default function Main(){
         </div>
         <div className="home-button"></div>
         <button className="home-portfolio"> View Portfolio</button>
-        <button className="home-contact">LET"S TALK</button>
+        <button className="home-contact">LET'S TALK</button>
       </div>
       
     </div>

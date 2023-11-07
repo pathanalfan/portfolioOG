@@ -64,7 +64,8 @@ body {
 .pp{
   margin-top: 100px;
   margin-left: 100px;
-  width: 300px;
+  width: 20%;
+  height: 20%;
 }
 
 
@@ -84,7 +85,32 @@ body {
 }
 
 .home-portfolio{
-  margin-left: 500px;
+  margin-left: 400px;
   margin-right: 200px;
+  margin-top: 70px;
+  border-width: 4px ;
+  border-radius: 500px;
+  background-color: transparent;
+  font-family: inter;
+  font-weight: 500;
+  font-size: 30px;
+  height: 60px;
+  width: 250px;
+}
+
+.home-contact{
+  border: none;
+  border-radius: 500px;
+  background-color: rgba(170, 0, 0, 1);
+ 
+  width: auto;
+  height: 60px;
+  width: 250px;
+  margin: 10px;
+  font-family: inter;
+  font-weight: 500;
+  font-size: 30px;
+  color: white;
+  padding: 5px;
 }
 
